@@ -1,2 +1,1 @@
-# cs15_units
-project for Computational Statistics class
+# CSf15
