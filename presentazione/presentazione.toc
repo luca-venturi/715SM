@@ -1,4 +1,0 @@
-\beamer@endinputifotherversion {3.33pt}
-\select@language {italian}
-\beamer@sectionintoc {1}{Task 1 - Regressione}{3}{0}{1}
-\beamer@sectionintoc {2}{Task 2 - Classificazione}{13}{0}{2}
